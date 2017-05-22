@@ -1,0 +1,6 @@
+framework module SettingModule {
+  umbrella header "SettingModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

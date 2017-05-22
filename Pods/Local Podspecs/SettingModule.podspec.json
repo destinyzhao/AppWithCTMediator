@@ -1,0 +1,28 @@
+{
+  "name": "SettingModule",
+  "version": "0.0.1",
+  "summary": "SettingModule.",
+  "description": "this is SettingModule",
+  "homepage": "https://github.com/destinyzhao/CTMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Destiny": "346276712@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://git.coding.net/Destinyzhao/SettingModule.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "AppWithCTMediator_Setting/AppWithCTMediator_Setting/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

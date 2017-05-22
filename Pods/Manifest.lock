@@ -1,0 +1,36 @@
+PODS:
+  - CTMediator (0.0.3)
+  - HomeModule (0.0.1):
+    - CTMediator
+    - Masonry
+  - Masonry (1.0.2)
+  - SettingModule (0.0.1):
+    - CTMediator
+
+DEPENDENCIES:
+  - HomeModule (from `https://git.coding.net/Destinyzhao/HomeModule.git`)
+  - SettingModule (from `https://git.coding.net/Destinyzhao/SettingModule.git`)
+
+EXTERNAL SOURCES:
+  HomeModule:
+    :git: https://git.coding.net/Destinyzhao/HomeModule.git
+  SettingModule:
+    :git: https://git.coding.net/Destinyzhao/SettingModule.git
+
+CHECKOUT OPTIONS:
+  HomeModule:
+    :commit: 97b5c279f54e72f66b37b8549dd9b73e2e258376
+    :git: https://git.coding.net/Destinyzhao/HomeModule.git
+  SettingModule:
+    :commit: ae6eda6cc0e968372495b17d0064556f4eda3637
+    :git: https://git.coding.net/Destinyzhao/SettingModule.git
+
+SPEC CHECKSUMS:
+  CTMediator: c9a1203561e2232cb9a72822659159a02ae3cf20
+  HomeModule: 8bcd99fad54c46cfb556565e925993c1785c22d5
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SettingModule: eb8802f18fb85e7b69c970a6179ffc1da8c42bce
+
+PODFILE CHECKSUM: 43e8cceee056685dbe5f48c347c6e5eb7989a47a
+
+COCOAPODS: 1.2.1
